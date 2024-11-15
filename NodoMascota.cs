@@ -21,6 +21,7 @@ namespace T3_VeterinariaRamosS.A
         public NodoMascota siguiente; // Nodo siguiente para la pila o cola
         public NodoMascota izquierda; // Nodo siguiente para la pila o cola
         public NodoMascota derecha; // Nodo siguiente para la pila o cola
+   
 
 
         //Constructor (para construir el objeto de tipo "NodoVet" con sus atributos)
